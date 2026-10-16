@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-Hi! I am a computer science Ph.D. student at <b>[UCLA](https://www.ucla.edu/)</b> in the [PLUS Lab](https://plus-lab.github.io/){:target="_blank"}, advised by [Prof. Nanyun (Violet) Peng](https://vnpeng.net/){:target="_blank"}. Previously, I received my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"} and [Prof. Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}. In summer 2025, I was a research intern at <b>Adobe Research</b>.
+Hi! I am a computer science Ph.D. student at <b>[UCLA](https://www.ucla.edu/)</b> in the [PLUS Lab](https://plus-lab.github.io/){:target="_blank"}, advised by [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/){:target="_blank"}. Previously, I received my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"} and [Prof. Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}. In summer 2025, I was a research intern at <b>Adobe Research</b>.
 <!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
 My research focuses on <b>Interpretability for Robust and Controllable LLM Systems</b>. Recently, I have been working on:
