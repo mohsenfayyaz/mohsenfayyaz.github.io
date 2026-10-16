@@ -23,7 +23,7 @@ Featured Research
 ======
 ------
 <div style="border: 1px solid #ddd; border-left: 4px solid #2f7fc1; border-radius: 6px; padding: 14px 18px; margin-bottom: 1.5em; font-size: 15.5px;">
-	<b><a href="https://arxiv.org/abs/2509.09660" target="_blank">Steering MoE LLMs via Expert (De)Activation</a></b> &nbsp;<i class="publication-conference">ICLR 2026</i><br>
+	<b><a href="https://arxiv.org/abs/2509.09660" target="_blank">Steering MoE LLMs via Expert (De)Activation</a></b> &nbsp;<span class="venue-badge">ICLR 2026</span><br>
 	<b><u>Mohsen Fayyaz</u></b>, Ali Modarressi, Hanieh Deilamsalehy, Franck Dernoncourt, Ryan Rossi, Trung Bui, Hinrich Schütze, Nanyun Peng<br>
 	<p style="margin: 0.6em 0;">
 		<b>SteerMoE</b> steers Mixture-of-Experts LLMs by detecting experts whose activation differs between paired inputs with opposite behaviors, then turning them on or off at inference time, with no retraining or weight updates.
@@ -37,11 +37,10 @@ Featured Research
 News
 ======
 ------
-<font size="3">
-<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+<div class="news-list">
 <ul>
 	<li>
-		<b>Jan 2026</b>: Two papers accepted to <b>ICLR 2026</b>! 🎉
+		<b>Jan 2026</b>: Two papers accepted to <span class="venue-badge">ICLR 2026</span>! 🎉
 		<ul>
 			<li>"Steering MoE LLMs via Expert (De)Activation" (SteerMoE) <a href="https://arxiv.org/abs/2509.09660" target="_blank">[paper]</a> <a href="https://github.com/adobe-research/SteerMoE" target="_blank">[code]</a></li>
 			<li>"Multilingual Routing in Mixture-of-Experts" <a href="https://arxiv.org/abs/2510.04694" target="_blank">[paper]</a></li>
@@ -56,44 +55,48 @@ News
 		<b>Jun 2025</b>: Started a research internship at <b>Adobe Research</b> in Seattle.
 	</li>
 	<li>
-		<b>May 2025</b>: Our paper "Collapse of Dense Retrievers: Short, Early, and Literal Biases Outranking Factual Evidence" has been accepted to <b>ACL 2025</b> main conference!
+		<b>May 2025</b>: Our paper "Collapse of Dense Retrievers: Short, Early, and Literal Biases Outranking Factual Evidence" has been accepted to <span class="venue-badge acl">ACL 2025</span> main conference!
 		<a href="https://arxiv.org/abs/2503.05037" target="_blank">[paper]</a>
 		<a href="https://huggingface.co/datasets/mohsenfayyaz/ColDeR" target="_blank">[dataset]</a>
 	</li>
 	<li>
-		<b>Jan 2025</b>: "MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models" has been accepted to <b>ICLR 2025</b>!
+		<b>Jan 2025</b>: "MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models" has been accepted to <span class="venue-badge">ICLR 2025</span>!
 		<a href="https://arxiv.org/abs/2410.08182" target="_blank">[paper]</a>
 	</li>
+</ul>
+<details>
+<summary>Show older news</summary>
+<ul>
 	<li>
-		<b>Jul 2024</b>: New preprint "Evaluating Human Alignment and Model Faithfulness of LLM Rationale".
+		<b>Jul 2024</b>: New preprint <span class="venue-badge arxiv">arXiv</span> "Evaluating Human Alignment and Model Faithfulness of LLM Rationale".
 		<a href="https://arxiv.org/abs/2407.00219" target="_blank">[paper]</a>
 	</li>
 	<li>
 		<b>Sep 2023</b>: Started my Ph.D. in Computer Science at <b>UCLA</b>, advised by Prof. Nanyun (Violet) Peng.
 	</li>
 	<li>
-		<b>Jul 2023</b>: Our paper "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition" has been accepted to <b>ACL 2023</b>! 
+		<b>Jul 2023</b>: Our paper "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition" has been accepted to <span class="venue-badge acl">ACL 2023</span>!
 		<a href="https://aclanthology.org/2023.acl-long.149/" target="_blank">[paper]</a>
 	</li>
 	<li>
-		<b>Nov 2022</b>: Our paper "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning" has been accepted to <b>ENLSP@NeurIPS2022</b>! 
+		<b>Nov 2022</b>: Our paper "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning" has been accepted to <span class="venue-badge neurips">ENLSP @ NeurIPS 2022</span>!
 		<a href="https://arxiv.org/abs/2211.05610" target="_blank">[paper]</a>
 	</li>
 	<li>
-		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <b>NAACL 2022</b> main conference! 
+		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <span class="venue-badge acl">NAACL 2022</span> main conference!
 		<a href="https://aclanthology.org/2022.naacl-main.19.pdf" target="_blank">[paper]</a>
 		<a href="https://youtu.be/jgd9kUJlug4" target="_blank">[video]</a>
 	</li>
 	<li>
-		<b>Mar 2022</b>: Our paper "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages" has been accepted to <b>ACL 2022</b> main conference! 
+		<b>Mar 2022</b>: Our paper "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages" has been accepted to <span class="venue-badge acl">ACL 2022</span> main conference!
 		<a href="https://aclanthology.org/2022.acl-long.144/" target="_blank">[paper]</a>
 		<a href="https://www.youtube.com/watch?v=UKWFZSiP7OY" target="_blank">[video]</a>
 	</li>
 	<li>
-		<b>Sep 2021</b>: Our paper "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations" has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)! 
+		<b>Sep 2021</b>: Our paper "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations" has been accepted to <span class="venue-badge acl">BlackboxNLP @ EMNLP 2021</span>!
 		<a href="https://aclanthology.org/2021.blackboxnlp-1.29/">[paper]</a>
 		<!-- <a href="/posts/layer-wise-probing-on-bertoids">[blog]</a> -->
 	</li>
 </ul>
+</details>
 </div>
-</font>
